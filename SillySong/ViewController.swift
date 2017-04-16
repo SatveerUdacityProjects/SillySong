@@ -21,11 +21,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         enterName.delegate = self
-       // enterName.backgroundColor = UIColor.clear
-        //enterName.layer.borderColor = UIColor.white.cgColor
-        //enterName.layer.borderWidth = 1.0
-        //enterName.borderStyle = UITextBorderStyle.
-    
         lyrics.backgroundColor = UIColor.clear
     }
 
